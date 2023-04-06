@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+I'm an intern sitting in!
 
 ![catstello](https://octodex.github.com/images/catstello.png)
 {: .center}
